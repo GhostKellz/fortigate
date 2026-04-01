@@ -9,7 +9,7 @@
 #>
 
 $TargetVersion = "7.4.3.4726"
-$MsiPath = "\\i2i-file1\IT\vpn\FortiClientVPN.msi"
+$MsiPath = "\\reso-file1\IT\vpn\FortiClientVPN.msi"
 $LogFile = "$env:ProgramData\FortiClientInstall.log"
 $MsiLogFile = "$env:ProgramData\FortiClientMSI.log"
 
